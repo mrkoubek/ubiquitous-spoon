@@ -1,2 +1,2 @@
-remote 2 of local 2
+remote 2 of ocal 2
 test
